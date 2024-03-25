@@ -1,0 +1,28 @@
+Prompt 1
+bana html formatında ,kendime yani "melis'in gezi defteri" adlı bir web sitesi yazar mısın?aynı zamanda bu sitede 5 alt başlıkta gezdiğim yerleri resimleri ile birlikte paylaşmak istiyorum bunlar(sicilya,como gölü,giethoorn,singapur,berlin)olsun. aynı zamanda bana style için bir css dosyası yazar mısın
+
+prompt2
+bu web sitesi çok sade biraz daha doğal tonlarda renkli bir site yapar mısın?ve hakkımda kısmı ekler misin? bu kısma "merhaba ben melis ,gezmeyi çok seviyorum sizlerle gezdiğim yerleri paylaşıyorum".yaz.Ayrıca anasayfa ,iletişim ,seyahat ekler mısın? gezilen ülkeleri de seyahat adı altında toplar mısın? iletişim bilgilerini de sağ üst kısımda logoları ile birlikte verir misin?(instagram,twitter,youtube)
+prompt3
+çok renksiz ,turuncu ve pembe renkli bir arka planla "melis'in gezi defteri" yazar mısın?
+Prompt4
+anasayfa ,seyahat,iletişim kısmını ortalar mısın? yazı fontunu daha modern ve etkileyici bir fontta yazar mısın? seyahet kısmı "seyahatlerim" olsun. Como gölü altında 1652349657283.jpg resmini koy,berlinin altına berlin.jpg resmini,sicilya nın altına sicilya.jpg resmini,singapurun altına singapur.jpg bu resmi,giethoorn un altına giethoorn.jpg bu resmi ekler misin?
+Prompt5
+seyahat kısmını ülkeleri yan yana bir biçime ve resimleri de yazıların hemen altına alır mısın?,yan yana sıralı bir biçimde. hakkımda kısmını da anasayfaya ekler misin?,ülkelerin resimlerini aynı boyuta getirir misin?
+Prompt6
+"melisin gezi defteri"yazan kısma bu fotoyu IMG_20230225_235146_007.jpg loga haline getirilmiş halinde koyar mısın
+Prompt7
+bu logo çok büyük oldu bunu küçük ve yuvarlak bir çerçeve şeklinde,hemen "melisin gezi defterinin "hemen yanına yapar mısın
+prompt8
+bu logo çok solda onu "melisin gezi defterinin "hemen yanına çizer misin ve biraz daha büyük bir şekilde,"melisin gezi defteri"iki kere yazılmış düzeltirmisin,ülkelerin resimlerini hepsini 300px x 300px şeklinde çizer misin ve arka planı somon rengi ile boyar mısın,yazı fontunu 'MV Boli' fontu ile yazar mısın
+prompt9
+Yazıyı "Melis'in Gezi Defteri" şeklinde değiştir, logoyu biraz daha büyüt,sayfayı Web sitesi mobil uyumlu ve duyarlı yap,Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümü haline getir
+Prompt10
+ülkelerden sicilyanın altına 'Sıcak sahilleri ile içinizi ısıtan sicilya koyları sizi masallarda hissetiricek' yazısını ekle,singapur altına 'doğasıyla ve mimarisiyle size iyi gelecek en etkileyici yerlerden biri' yazısını ekle,giethoorun yanına 'masalsı evleri ile keşke bu evlerde yaşasam diyeceksiniz'yazsını ekle,berlinin altına 'Özgün ve sıradışı müzeleri ile sizi şaşırtacak bir yer' yazısını ekle,como gölünün yanına 'İnsanda hemen kalkıp gitme isteği uyandıran bir güzelliğe sahip' yazısını ekle
+prompt11
+Twitter_new_X_logo.png logosunu youtube un olduğu yere ,youtube-logo-youtube-icon-transparent-free-png logosunu twitter ın olduğu yere ,png-transparent-logo-instagram-text-logo-number-thumbnail logosunu da ınstagram ın olduğu yere çizer misin
+Prompt12
+Youtube_logo.png logosunu youtube un olduğu yere ,indir.png logosunu instagramın olduğu yere çizer misin?,Default_Create_a_longhaired_girl_with_a_backpack_behind_her_an_2.jpg logosunu sol kısma çizer misin
+
+Prompt resim logo
+Create a long-haired girl with a backpack behind her and the girl walking on a road(made with leonardoai)
